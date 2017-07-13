@@ -4,6 +4,7 @@ public class FirstGithub {
         System.out.println("ああああ");
         System.out.println("iiiiii");
         System.out.println("o");
+        System.out.println("nioyhlwqnf");
 
     }
 }
